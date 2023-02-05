@@ -24,11 +24,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://gifyu.com/image/SmB9L' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/OuvnJEH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with Gifyu
+GIF created with Imgur
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
